@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	 <minipaint_application_view>
+    	<addLayout name="admin_menu" />
+        <addLayout name="customization_default" />
+        <views>
+            <content class="core_view_default" template="minipaint/application/view.phtml" />
+        </views>
+    </minipaint_application_view>
+   
+</layout>
+
